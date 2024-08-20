@@ -1,0 +1,8 @@
+top=top
+
+a (SW3,SW2,SW1,SW0)
+b (SW7,SW6,SW5,SW4)
+of (LD8)
+out (LD3,LD2,LD1,LD0)
+zero (LD9)
+en (BTNL, BTNC, BTNR)
